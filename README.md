@@ -1,2 +1,2 @@
 # EncapsulationUsingC
-Showing How Achieve Encapsulation in C 
+Showing How to Achieve Encapsulation in C 
